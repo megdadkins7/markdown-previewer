@@ -11,9 +11,6 @@ const GlobalStyles = createGlobalStyle`
       height: 100vh;
   }
   body {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
       margin: 0;
       padding: 0;
       font-family: 'Red Hat Text', sans-serif;
